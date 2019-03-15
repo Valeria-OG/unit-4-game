@@ -2,7 +2,7 @@ $(document).ready(function() {
 
     var random = Math.floor(Math.random() * 102+19);
  
-    $("#randomnumber").text(random);
+    $("#randomNumber").text(random);
  
     var num1 = Math.floor(Math.random() * 12 + 1);
     var num2 = Math.floor(Math.random() * 12 + 1);
